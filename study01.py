@@ -1,6 +1,6 @@
-a = 3
-b = 5
-c = 10
+a = 10
+b = 50
+c = 30
 print(a+b)
 print(c-b)
 d = 20
